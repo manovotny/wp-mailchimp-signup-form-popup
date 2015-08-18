@@ -14,9 +14,10 @@
     ],
     "license": "GPL-3.0+",
     "keywords": [
-        "array",
-        "php",
-        "utility",
+        "email",
+        "mailchimp",
+        "popup",
+        "signup",
         "wordpress"
     ],
     "require": {
