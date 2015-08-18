@@ -17,7 +17,7 @@ module.exports = (function () {
             slug: 'wp-mailchimp-signup-form-popup',
             type: 'plugin', // Should be `plugin` or `theme`.
             url: 'https://github.com/manovotny/wp-mailchimp-signup-form-popup',
-            version: '1.0.0'
+            version: '1.0.1'
         },
         translations: {
             domain: 'wp-mailchimp-signup-form-popup',
