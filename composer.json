@@ -1,0 +1,44 @@
+{
+    "name": "manovotny/wp-mailchimp-signup-form-popup",
+    "version": "0.0.0",
+    "description": "A MailChimp signup form popup for WordPress.",
+    "type": "library",
+    "homepage": "https://github.com/manovotny/wp-mailchimp-signup-form-popup",
+    "authors": [
+        {
+            "name": "Michael Novotny",
+            "email": "manovotny@gmail.com",
+            "homepage": "http://manovotny.com",
+            "role": "Developer"
+        }
+    ],
+    "license": "GPL-3.0+",
+    "keywords": [
+        "array",
+        "php",
+        "utility",
+        "wordpress"
+    ],
+    "require": {
+
+    },
+    "require-dev": {
+        "manovotny/wp-phpunit-helpers": "~1.0",
+        "phpunit/phpunit": "4.1.*"
+    },
+    "autoload": {
+        "classmap": [
+            "src"
+        ],
+        "files": [
+            "wp-mailchimp-signup-form-popup.php"
+        ]
+    },
+    "autoload-dev": {
+        "classmap": [
+            "vendor/phpunit",
+            "vendor/sebastian",
+            "vendor/symfony"
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "wp-mailchimp-signup-form-popup",
+    "version": "0.0.0",
+    "description": "A MailChimp signup form popup for WordPress.",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/manovotny/wp-mailchimp-signup-form-popup.git"
+    },
+    "keywords": [
+        "email",
+        "mailchimp",
+        "popup",
+        "signup",
+        "wordpress"
+    ],
+    "authors": [
+        {
+            "name": "Michael Novotny",
+            "email": "manovotny@gmail.com",
+            "homepage": "http://manovotny.com"
+        }
+    ]
+}
