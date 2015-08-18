@@ -1,8 +1,5 @@
 <?php
 /**
- * @package WP_Array_Util
- *
- * @wordpress-plugin
  * Plugin Name: WP MailChimp Signup Form Popup
  * Plugin URI: https://github.com/manovotny/wp-mailchimp-signup-form-popup
  * Description: A MailChimp signup form popup for WordPress.
