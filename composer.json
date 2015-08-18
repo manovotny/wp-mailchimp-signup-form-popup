@@ -1,6 +1,6 @@
 {
     "name": "manovotny/wp-mailchimp-signup-form-popup",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "description": "A MailChimp signup form popup for WordPress.",
     "type": "library",
     "homepage": "https://github.com/manovotny/wp-mailchimp-signup-form-popup",

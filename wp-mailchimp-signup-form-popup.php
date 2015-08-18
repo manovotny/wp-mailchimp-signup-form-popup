@@ -3,7 +3,7 @@
  * Plugin Name: WP MailChimp Signup Form Popup
  * Plugin URI: https://github.com/manovotny/wp-mailchimp-signup-form-popup
  * Description: A MailChimp signup form popup for WordPress.
- * Version: 0.0.0
+ * Version: 1.0.0
  * Author: Michael Novotny
  * Author URI: http://manovotny.com
  * License: GPL-3.0+
